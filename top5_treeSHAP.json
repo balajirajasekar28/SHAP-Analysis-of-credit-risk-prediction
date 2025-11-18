@@ -1,0 +1,9 @@
+{
+  "top5": [
+    "out_prncp",
+    "fico_range_low",
+    "int_rate",
+    "annual_inc",
+    "mths_since_recent_inq"
+  ]
+}
